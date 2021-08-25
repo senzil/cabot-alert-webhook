@@ -1,7 +1,7 @@
 from django.db import models
 
-from cabot.cabotapp.alert import AlertPlugin
-from cabot.cabotapp.alert import AlertPluginUserData
+from cabot3.cabotapp.alert import AlertPlugin
+from cabot3.cabotapp.alert import AlertPluginUserData
 
 import requests
 import json
